@@ -1,0 +1,27 @@
+/* main CSS for zodsai.com */
+
+body {
+	background-image: -webkit-gradient(linear,
+				left top, left bottom,
+				from(rgba(0,255,255,0.3)),
+				to(rgba(0,155,255,0.3)),
+				color-stop(0.8, rgba(255,255,255,0.5)));
+	font-family: Arial, Helvetica, sans-serif;
+}
+#icon {
+	-webkit-border-radius:20px;
+	-webkit-transition: -webkit-transform 150ms;
+}
+#icon:hover {
+	-webkit-transform:scale(1.05);
+}
+a {
+	text-decoration:none;
+}
+a:hover {
+	text-decoration:none;
+}
+/* [for romoving IE ugly border the value must be "none"] */
+img {
+	border:none;
+}

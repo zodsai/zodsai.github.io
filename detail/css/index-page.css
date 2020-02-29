@@ -1,0 +1,68 @@
+body {
+	background-image: url(http://zodsai.com/detail/image/background/background.png);
+	background-repeat: repeat
+	
+}
+.navlist li {
+	-webkit-transition: color 500ms, padding-left 300ms;
+	color: #808080;
+	text-decoration:none;
+}
+.navlist li:hover {
+	color: #000000;
+	padding-left: 20px;
+}
+a {
+	text-decoration:none;
+}
+a:hover {
+	text-decoration:none;
+}
+ul.navlist {
+	list-style-type: none;
+	list-style-image: none;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.navlist li {
+	list-style-type: none;
+	list-style-image:none;
+	list-style-type:none;
+	margin: -2px 0 0 0;
+}
+#nav {
+	font-size: 40px;
+}
+#nav-wrap {
+	float: left;
+	margin: 120px 15px 0 40px;
+	padding: 0;
+	width: 230px;
+}
+.sign {
+	margin-right: 20px;
+}
+.footer {
+	border-top: 2px solid #C0C0C0
+	
+}
+.container {
+	margin-top: 20px;
+	margin-left: 40px
+}
+img#icon { /*for facebook and twitter*/
+	-webkit-transition: -webkit-transform 100ms;
+	border:0px;
+}
+img#icon:hover { 
+	-webkit-transform: rotate(1deg) scale(1.2)
+}
+img#logo-icon {		/* for zodsai mini logo*/
+	-webkit-transition: -webkit-transform 100ms;
+	margin-right: 40px;
+	border:0px;
+}
+img#logo-icon:hover {
+	-webkit-transform: rotate(1deg) scale(1.2);
+}

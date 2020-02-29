@@ -1,0 +1,67 @@
+/* CSS Document */
+
+.navlist {
+	text-decoration:none;
+}
+div.navbox {
+	border:none;
+	width:120px;
+	height:38px;
+	-webkit-border-radius:8px;
+	-webkit-transition: -webkit-transform 150ms, color 300ms;
+	margin-right:10px;
+	color: #696969;
+	float:left;
+	padding-top:15px;
+	text-align:center;
+	font-size:23px;
+	font-family:
+}
+div.navbox:hover {
+	-webkit-transform: rotate(0.5deg) scale(1.1);
+	color: #000000;
+	text-decoration:none;
+}
+#nav-news {
+	background-image: -webkit-gradient(linear,
+				left top, left bottom,
+				from(rgba(255,0,0,0.5)),
+				to(rgba(255,0,0,0.7)),
+				color-stop(0.7, rgba(255,255,255,0.5)));
+}
+#nav-forum {
+	background-image: -webkit-gradient(linear,
+				left top, left bottom,
+				from(rgba(0,128,0,0.9)),
+				to(rgba(0,100,0,0.9)),
+				color-stop(0.7, rgba(255,255,255,0.5)));
+}
+#nav-edu {
+	background-image: -webkit-gradient(linear,
+				left top, left bottom,
+				from(rgba(154,205,50,0.9)),
+				to(rgba(173,255,47,0.9)),
+				color-stop(0.7, rgba(255,255,255,0.5)));
+}
+#nav-live {
+	background-image: -webkit-gradient(linear,
+				left top, left bottom,
+				from(rgba(255,140,0,0.9)),
+				to(rgba(255,165,0,0.9)),
+				color-stop(0.7, rgba(255,255,255,0.5)));
+}
+#nav-idea {
+	background-image: -webkit-gradient(linear,
+				left top, left bottom,
+				from(rgba(0,191,255,0.9)),
+				to(rgba(0,255,255,0.9)),
+				color-stop(0.7, rgba(255,255,255,0.5)));
+}
+#nav-feedback {
+	background-image: -webkit-gradient(linear,
+				left top, left bottom,
+				from(rgba(255,69,0,0.8)),
+				to(rgba(255,99,71,0.9)),
+				color-stop(0.7, rgba(255,255,255,0.5)));
+}
+/* end of navigation css*/
