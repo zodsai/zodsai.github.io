@@ -38,6 +38,12 @@ plugins:
   - jekyll-redirect-from
   - jekyll-feed
 
+# ga - Google Analytics
+google_analytics: UA-21840175-1
+
+header_pages: 
+  - about.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
