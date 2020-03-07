@@ -11,7 +11,7 @@ Zodsai is a project to share knowledge with everyone. It was started in 2011.
 
 ## สารบัญ
 - [The old colorful homepage](old-index/index.html)
-- [คณิตศาสตร์](/math/) - เฉลยข้อสอบ O-NET, PAT, วิชาสามัญ
+- [รวมเนื้อหา คณิตศาสตร์ ทั้งหมด](/math/) - เฉลยข้อสอบ O-NET, PAT, วิชาสามัญ
 - [Education](/edu/)
 
 ---
